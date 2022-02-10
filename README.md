@@ -1,5 +1,6 @@
 # Basic-Python-Exercise
 Basic python problems used to practice and familiarize with coding in python
+I created this repository for future references and hope it may be helpful to whoever that is also learning Python
 
 
 These problems are coded using Jupyter Notebook.
