@@ -1,6 +1,8 @@
 # Basic-Python-Exercise
 Basic python problems used to practice and familiarize with coding in python.
 
+These problems are exercises from the book "Python by Example" by Nichola Lacey
+
 I created this repository for future references and hope it may be helpful to whoever that is also learning Python.
 
 
